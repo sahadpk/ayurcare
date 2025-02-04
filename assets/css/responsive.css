@@ -1453,6 +1453,7 @@
 }
 .tg-banner-img img {
 	margin: 0 auto;
+	height: 220px;
 	max-width: 100%;
 }
 .tg-banner-content .title {
@@ -1719,6 +1720,7 @@
 .tg-banner-img img {
 	margin: 0 auto;
 	max-width: 80%;
+	height: 220px;
 }
 .tg-banner-content .title {
 	font-size: 50px;
