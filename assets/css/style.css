@@ -8682,7 +8682,7 @@ body.search-visible {
     .cbh-phone-call {
         display: block;
         position: fixed;
-        left: 220px;
+        left: 210px;
         bottom: -50px;
         visibility: hidden;
         background-color: transparent;
