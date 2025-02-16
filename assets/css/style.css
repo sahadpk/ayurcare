@@ -8678,3 +8678,19 @@ body.search-visible {
     }
   }
  
+@media only screen and (max-width: 600px) {
+    .cbh-phone-call {
+        display: block;
+        position: fixed;
+        left: 220px;
+        bottom: -50px;
+        visibility: hidden;
+        background-color: transparent;
+        width: 200px;
+        height: 200px;
+        cursor: pointer;
+        z-index: 999;
+        
+    }
+  }
+ 
